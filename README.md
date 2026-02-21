@@ -9,7 +9,7 @@
 *   **Member 2**: [Rose Soyuse] - [Viswajyothi College of Engineering and Technology]
 
 ### Hosted Project Link
-[https://flaglogic-ai.vercel.app/](https://flaglogic-ai.vercel.app/) (Placeholder)
+https://mose-theta.vercel.app (Placeholder)
 
 ### Project Description
 A sophisticated, AI-driven platform for flag logic and analysis, featuring a premium dark-themed interface designed for precision and modern visual excellence.
