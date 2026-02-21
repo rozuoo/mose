@@ -1,3 +1,5 @@
+<img width="1280" height="640" alt="image" src="https://github.com/user-attachments/assets/7a6b891b-aaf7-4d28-b787-1a9a13932050" />
+
 # വട്ടലവ് 🚩 (FlagLogic AI)
 
 ### Basic Details
