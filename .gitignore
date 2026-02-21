@@ -1,24 +1,44 @@
-# Logs
-logs
-*.log
-npm-debug.log*
+# Common Node/Vite/React gitignore
 
-# Node modules
-node_modules
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
 
-# Vite build output
-dist
+# Testing
+coverage/
 
-# Environment files
+# Production
+dist/
+build/
+
+# Misc
+.DS_Store
 .env
 .env.local
-.env.*.local
+.env.development.local
+.env.test.local
+.env.production.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.eslintcache
 
-# Editor directories and files
-.idea
-.vscode
+# Editor Settings
+.vscode/
+.idea/
 *.suo
 *.ntvs*
 *.njsproj
 *.sln
 *.sw?
+
+# OS
+Thumbs.db
+db.lock
+desktop.ini
+
+# Vite
+*.local
+dist-ssr/
+*.log
