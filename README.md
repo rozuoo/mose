@@ -66,6 +66,10 @@ User Interface (React) <---> Vite Dev Server <---> Logic Engine (JavaScript)
 **Application Workflow:**
 Input Data -> Processing Engine -> State Management -> UI Update
 
+Project Demo
+Video
+[https://drive.google.com/drive/folders/1y52rAeC7BFbNTch9gYPB_V7u9LLuopvR]
+
 ### Team Contributions
 *   **Mariya Franklin**: Frontend development, UI/UX design, and Core Logic implementation.
 *   **[Rose Soyuse]**: Testing, Documentation, and Deployment.
